@@ -1,11 +1,11 @@
 # Note-Taker
 
-Assignment 9 for University of Toronto coding bootcamp.
+Note Taker App
 
 ## Project functionality
 
-This assignment focused on taking a prebuilt front end application and creating a backend to handle get, post and delete calls using express to a json file which acted as a make shift database for persistence.
+Taking prebuilt front end to work with backend on put, get, delete calls.
 
-Live Demo: https://express-note-taker.herokuapp.com/
+Live Demo: https://shrouded-basin-82697.herokuapp.com/notes
 
 ![markdown-image](public/assets/img/markdown-preview-image.png)
